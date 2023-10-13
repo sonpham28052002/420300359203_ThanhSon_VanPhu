@@ -1,0 +1,17 @@
+﻿a,b,c,er
+10, 30, 15, 30
+100, 25, 33, IndexOutOfRangeException
+5, 200, 22, IndexOutOfRangeException
+18, 44, -10, IndexOutOfRangeException
+1, 20, 40, 40
+50, 18, 33, 50
+47, 1, 30, 47
+12, 50, 26, 50
+15, 35, 1, 35
+9, 23, 50, 50
+0, 25, 15, IndexOutOfRangeException
+51, 18, 26, IndexOutOfRangeException
+18, 0, 30, IndexOutOfRangeException
+47, 51, 40, IndexOutOfRangeException
+12, 23, 0, IndexOutOfRangeException
+5, 35, 51, IndexOutOfRangeException
