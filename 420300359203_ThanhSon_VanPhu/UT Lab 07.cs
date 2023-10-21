@@ -5,7 +5,7 @@ using System.Linq;
 namespace _420300359203_ThanhSon_VanPhu
 {
     [TestClass]
-    public class UnitTest7
+    public class UT_Lab_07
     {
         private MethodLibrary.MethodLibrary obj = new MethodLibrary.MethodLibrary();
         public TestContext TestContext { get; set; }

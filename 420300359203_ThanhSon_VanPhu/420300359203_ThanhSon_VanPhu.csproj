@@ -53,9 +53,13 @@
     <Reference Include="System.Data" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UT Lab 03.cs" />
+    <Compile Include="UT Lab 08.cs" />
+    <Compile Include="UT Lab 05.cs" />
+    <Compile Include="UT Lab 02.cs" />
+    <Compile Include="UT Lab 04.cs" />
     <Compile Include="UT Lab 06.cs" />
     <Compile Include="UT Lab 07.cs" />
-    <Compile Include="UT Lab 03.cs" />
     <Compile Include="UT Lab 01.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>

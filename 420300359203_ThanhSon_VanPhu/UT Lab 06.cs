@@ -4,7 +4,7 @@ using System;
 namespace _420300359203_ThanhSon_VanPhu
 {
     [TestClass]
-    public class UnitTest6
+    public class UT_Lab_06
     {
         private MethodLibrary.MethodLibrary obj = new MethodLibrary.MethodLibrary();
         public TestContext TestContext { get; set; }

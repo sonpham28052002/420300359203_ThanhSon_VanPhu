@@ -4,7 +4,7 @@ using System;
 namespace _420300359203_ThanhSon_VanPhu
 {
     [TestClass]
-    public class UT_Lab_1
+    public class UT_Lab_01
     {
         private MethodLibrary.MethodLibrary obj = new MethodLibrary.MethodLibrary();
 
